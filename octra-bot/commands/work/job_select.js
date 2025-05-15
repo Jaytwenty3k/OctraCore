@@ -1,7 +1,7 @@
-const { ActionRowBuilder, StringSelectMenuBuilder } = require('discord.js');
+const { ActionRowBuilder, StringSelectMenuBuilder, SlashCommandBuilder } = require('discord.js');
 
-module.exports = {
-  data: {
+module.exports = { slashb
+  data: { 
     name: 'job_select', // Slash-Befehl für Jobwahl
     description: 'Wähle deinen Job!',
   },
