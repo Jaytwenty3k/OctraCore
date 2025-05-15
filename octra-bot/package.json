@@ -1,0 +1,18 @@
+{
+  "name": "octra-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@jaytwenty3k",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.49.4",
+    "discord.js": "^14.19.3",
+    "dotenv": "^16.5.0",
+    "node": "^24.0.1"
+  }
+}
